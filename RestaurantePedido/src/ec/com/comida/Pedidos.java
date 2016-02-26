@@ -237,7 +237,7 @@ public class Pedidos {
 		
 		Button btnGenerarPedido = new Button(botonesComposite, SWT.NONE);
 		btnGenerarPedido.setImage(SWTResourceManager.getImage(Pedidos.class,
-				"/ec/com/comida/img/iconoMas.JPG"));
+				"/ec/com/comida/img/procesar.JPG"));
 
 		btnGenerarPedido.addListener(SWT.Selection, new Listener() {
 
